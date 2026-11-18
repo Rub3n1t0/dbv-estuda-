@@ -1,0 +1,1571 @@
+{
+ "especialidades": [
+  {
+   "codigo": "ID-001",
+   "nome": "Ideais do Desbravador",
+   "area": "ID",
+   "nivel": 1,
+   "descricao": "Voto, Lei, Lema, Alvo e informações gerais do Clube de Desbravadores. Base para todas as classes.",
+   "perguntas": [
+    {
+     "enunciado": "Qual é o Lema do Desbravador?",
+     "opcoes": [
+      "Sempre alerta",
+      "O amor de Cristo me motiva",
+      "Servir a Deus e à pátria",
+      "Fazer o melhor possível"
+     ],
+     "correta": 1,
+     "explicacao": "O Lema é: \"O amor de Cristo me motiva\"."
+    },
+    {
+     "enunciado": "Qual é o Alvo do Desbravador?",
+     "opcoes": [
+      "A mensagem do advento a todo o mundo em minha geração",
+      "Ser o melhor clube da região",
+      "Completar todas as especialidades",
+      "Salvar do pecado e guiar no serviço"
+     ],
+     "correta": 0,
+     "explicacao": "O Alvo é levar a mensagem do advento a todo o mundo nesta geração."
+    },
+    {
+     "enunciado": "Complete o Voto: \"Pela graça de Deus, serei puro, bondoso e ___\"",
+     "opcoes": [
+      "fiel",
+      "obediente",
+      "leal",
+      "forte"
+     ],
+     "correta": 2,
+     "explicacao": "\"Pela graça de Deus, serei puro, bondoso e leal; guardarei a Lei do Desbravador, serei servo de Deus e amigo de todos.\""
+    },
+    {
+     "enunciado": "Quantos itens tem a Lei do Desbravador?",
+     "opcoes": [
+      "6",
+      "8",
+      "10",
+      "12"
+     ],
+     "correta": 1,
+     "explicacao": "A Lei do Desbravador tem 8 itens."
+    },
+    {
+     "enunciado": "Qual destes itens faz parte da Lei do Desbravador?",
+     "opcoes": [
+      "Ir aonde Deus mandar",
+      "Nunca desistir de um desafio",
+      "Ser o primeiro em tudo",
+      "Usar sempre o uniforme"
+     ],
+     "correta": 0,
+     "explicacao": "\"Ir aonde Deus mandar\" é o último item da Lei."
+    },
+    {
+     "enunciado": "Qual destes itens também está na Lei do Desbravador?",
+     "opcoes": [
+      "Ter sempre um cântico no coração",
+      "Ganhar todas as competições",
+      "Ler um livro por mês",
+      "Acampar todo ano"
+     ],
+     "correta": 0,
+     "explicacao": "\"Ter sempre um cântico no coração\" é um dos 8 itens da Lei."
+    },
+    {
+     "enunciado": "Qual é a primeira classe regular do Desbravador?",
+     "opcoes": [
+      "Companheiro",
+      "Pesquisador",
+      "Amigo",
+      "Guia"
+     ],
+     "correta": 2,
+     "explicacao": "A ordem das classes é: Amigo, Companheiro, Pesquisador, Pioneiro, Excursionista e Guia."
+    },
+    {
+     "enunciado": "Qual classe regular vem logo depois de Pesquisador?",
+     "opcoes": [
+      "Excursionista",
+      "Pioneiro",
+      "Guia",
+      "Companheiro"
+     ],
+     "correta": 1,
+     "explicacao": "Amigo → Companheiro → Pesquisador → Pioneiro → Excursionista → Guia."
+    },
+    {
+     "enunciado": "Qual é a última classe regular, normalmente feita aos 15 anos?",
+     "opcoes": [
+      "Pioneiro",
+      "Excursionista",
+      "Guia",
+      "Líder"
+     ],
+     "correta": 2,
+     "explicacao": "Guia é a sexta e última classe regular."
+    },
+    {
+     "enunciado": "Qual é a faixa de idade dos Desbravadores?",
+     "opcoes": [
+      "6 a 9 anos",
+      "10 a 15 anos",
+      "16 a 21 anos",
+      "Qualquer idade"
+     ],
+     "correta": 1,
+     "explicacao": "O clube atende adolescentes de 10 a 15 anos. Crianças de 4 a 9 anos participam do Clube de Aventureiros."
+    },
+    {
+     "enunciado": "O Clube de Desbravadores é um ministério de qual igreja?",
+     "opcoes": [
+      "Igreja Batista",
+      "Igreja Adventista do Sétimo Dia",
+      "Igreja Metodista",
+      "Igreja Presbiteriana"
+     ],
+     "correta": 1,
+     "explicacao": "O clube é um ministério jovem da Igreja Adventista do Sétimo Dia."
+    },
+    {
+     "enunciado": "Em que ano a Associação Geral adotou oficialmente o Clube de Desbravadores?",
+     "opcoes": [
+      "1910",
+      "1950",
+      "1975",
+      "2000"
+     ],
+     "correta": 1,
+     "explicacao": "Em 1950 o clube foi reconhecido oficialmente pela Associação Geral."
+    }
+   ]
+  },
+  {
+   "codigo": "CS-003",
+   "nome": "Primeiros socorros – básico",
+   "area": "CS",
+   "nivel": 1,
+   "descricao": "Avaliação da cena, sinais vitais, ferimentos, queimaduras e como pedir ajuda.",
+   "perguntas": [
+    {
+     "enunciado": "Qual é a primeira coisa a fazer ao chegar no local de um acidente?",
+     "opcoes": [
+      "Mover a vítima imediatamente",
+      "Avaliar se a cena é segura",
+      "Dar água para a vítima",
+      "Tirar fotos para registrar"
+     ],
+     "correta": 1,
+     "explicacao": "Antes de ajudar, garanta que você não vai se tornar a próxima vítima."
+    },
+    {
+     "enunciado": "Qual dedo NÃO deve ser usado para medir o pulso?",
+     "opcoes": [
+      "Indicador",
+      "Médio",
+      "Polegar",
+      "Anelar"
+     ],
+     "correta": 2,
+     "explicacao": "O polegar tem pulsação própria e pode confundir a contagem."
+    },
+    {
+     "enunciado": "Qual é o pulso normal de um adulto em repouso?",
+     "opcoes": [
+      "30 a 50 bpm",
+      "60 a 100 bpm",
+      "120 a 160 bpm",
+      "180 a 200 bpm"
+     ],
+     "correta": 1,
+     "explicacao": "Em repouso, o coração de um adulto bate entre 60 e 100 vezes por minuto."
+    },
+    {
+     "enunciado": "Você contou 9 respirações em 30 segundos. Quantas são por minuto?",
+     "opcoes": [
+      "9",
+      "15",
+      "18",
+      "30"
+     ],
+     "correta": 2,
+     "explicacao": "Conte por 30 segundos e multiplique por 2: 9 × 2 = 18."
+    },
+    {
+     "enunciado": "Para qual número você liga para chamar o SAMU?",
+     "opcoes": [
+      "190",
+      "192",
+      "193",
+      "199"
+     ],
+     "correta": 1,
+     "explicacao": "192 é o SAMU. 193 são os Bombeiros e 190, a Polícia Militar."
+    },
+    {
+     "enunciado": "Qual é o número do Corpo de Bombeiros?",
+     "opcoes": [
+      "190",
+      "192",
+      "193",
+      "197"
+     ],
+     "correta": 2,
+     "explicacao": "193 é o número dos Bombeiros."
+    },
+    {
+     "enunciado": "Qual a frequência respiratória normal de um adulto em repouso?",
+     "opcoes": [
+      "4 a 8 por minuto",
+      "12 a 20 por minuto",
+      "30 a 40 por minuto",
+      "50 a 60 por minuto"
+     ],
+     "correta": 1,
+     "explicacao": "Um adulto em repouso respira de 12 a 20 vezes por minuto."
+    },
+    {
+     "enunciado": "O que fazer primeiro em uma queimadura leve (vermelhidão, sem bolhas)?",
+     "opcoes": [
+      "Passar pasta de dente",
+      "Passar manteiga",
+      "Resfriar com água corrente em temperatura ambiente",
+      "Estourar e cobrir com algodão"
+     ],
+     "correta": 2,
+     "explicacao": "Água corrente por alguns minutos alivia e limita a lesão. Pasta de dente, manteiga e afins podem infeccionar."
+    },
+    {
+     "enunciado": "Uma queimadura que forma bolhas é classificada como de:",
+     "opcoes": [
+      "1º grau",
+      "2º grau",
+      "3º grau",
+      "4º grau"
+     ],
+     "correta": 1,
+     "explicacao": "1º grau: vermelhidão. 2º grau: bolhas. 3º grau: atinge camadas profundas da pele."
+    },
+    {
+     "enunciado": "Como controlar um sangramento externo em um corte?",
+     "opcoes": [
+      "Fazer compressão direta com pano limpo",
+      "Lavar com álcool e deixar aberto",
+      "Aplicar gelo direto no corte",
+      "Colocar pó de café"
+     ],
+     "correta": 0,
+     "explicacao": "Pressão direta e firme com um pano limpo é a primeira medida."
+    },
+    {
+     "enunciado": "Em caso de sangramento pelo nariz, a pessoa deve:",
+     "opcoes": [
+      "Inclinar a cabeça para trás",
+      "Deitar de barriga para cima",
+      "Inclinar a cabeça levemente para frente e apertar as narinas",
+      "Assoar o nariz com força"
+     ],
+     "correta": 2,
+     "explicacao": "Inclinar para trás faz o sangue escorrer para a garganta. Para frente e comprimindo as narinas é o correto."
+    },
+    {
+     "enunciado": "Pele fria, pálida e úmida em uma vítima pode ser sinal de:",
+     "opcoes": [
+      "Febre",
+      "Choque",
+      "Insolação leve",
+      "Normalidade"
+     ],
+     "correta": 1,
+     "explicacao": "Pele fria e úmida, palidez e pulso rápido e fraco são sinais de choque."
+    }
+   ]
+  },
+  {
+   "codigo": "AR-001",
+   "nome": "Arte de acampar",
+   "area": "AR",
+   "nivel": 1,
+   "descricao": "Planejamento, escolha do local, barraca, higiene e cuidados com a natureza no acampamento.",
+   "perguntas": [
+    {
+     "enunciado": "Qual o melhor lugar para montar uma barraca?",
+     "opcoes": [
+      "No leito seco de um rio",
+      "Em terreno plano e levemente elevado",
+      "Embaixo de uma árvore com galhos secos",
+      "No fundo de um vale"
+     ],
+     "correta": 1,
+     "explicacao": "Terreno plano e um pouco elevado evita enxurradas. Leitos de rio podem encher de repente."
+    },
+    {
+     "enunciado": "Por que evitar acampar debaixo de árvores com galhos secos?",
+     "opcoes": [
+      "Porque atraem insetos",
+      "Porque os galhos podem cair",
+      "Porque fazem sombra demais",
+      "Porque é proibido"
+     ],
+     "correta": 1,
+     "explicacao": "Galhos secos podem quebrar com o vento e cair sobre a barraca."
+    },
+    {
+     "enunciado": "Qual a forma mais segura de tornar potável a água de um rio?",
+     "opcoes": [
+      "Coar com um pano",
+      "Deixar descansar por uma hora",
+      "Ferver por pelo menos 1 minuto",
+      "Misturar com suco"
+     ],
+     "correta": 2,
+     "explicacao": "A fervura por pelo menos 1 minuto elimina a maioria dos microrganismos."
+    },
+    {
+     "enunciado": "O que fazer com o lixo produzido no acampamento?",
+     "opcoes": [
+      "Enterrar tudo",
+      "Queimar na fogueira",
+      "Levar de volta e descartar corretamente",
+      "Deixar num canto do mato"
+     ],
+     "correta": 2,
+     "explicacao": "Princípio \"não deixe rastros\": tudo o que você levou, traga de volta."
+    },
+    {
+     "enunciado": "A que distância mínima de rios e nascentes deve ficar a latrina?",
+     "opcoes": [
+      "5 metros",
+      "15 metros",
+      "60 metros",
+      "Não há distância mínima"
+     ],
+     "correta": 2,
+     "explicacao": "Recomenda-se ao menos 60 metros (cerca de 70 passos) de fontes de água."
+    },
+    {
+     "enunciado": "Qual a melhor forma de se vestir em um acampamento com noites frias?",
+     "opcoes": [
+      "Uma única roupa bem grossa",
+      "Várias camadas de roupa",
+      "Roupa de algodão molhada",
+      "Apenas agasalho no corpo, sem nada nas mãos e cabeça"
+     ],
+     "correta": 1,
+     "explicacao": "Camadas permitem ajustar o calor tirando ou colocando peças."
+    },
+    {
+     "enunciado": "Ao arrumar a mochila, os itens mais pesados devem ficar:",
+     "opcoes": [
+      "No fundo, longe das costas",
+      "Perto das costas e na altura do meio da mochila",
+      "No bolso de cima",
+      "Pendurados por fora"
+     ],
+     "correta": 1,
+     "explicacao": "Peso próximo às costas e ao centro mantém o equilíbrio e reduz o cansaço."
+    },
+    {
+     "enunciado": "Tremores fortes, fala enrolada e confusão em uma noite fria podem indicar:",
+     "opcoes": [
+      "Insolação",
+      "Hipotermia",
+      "Desidratação leve",
+      "Alergia"
+     ],
+     "correta": 1,
+     "explicacao": "Hipotermia é a queda perigosa da temperatura do corpo. Aqueça e procure ajuda."
+    },
+    {
+     "enunciado": "Ao sair do local de acampamento, ele deve ficar:",
+     "opcoes": [
+      "Do jeito que estiver",
+      "Igual ou melhor do que foi encontrado",
+      "Marcado com o nome do clube",
+      "Com a fogueira acesa para o próximo grupo"
+     ],
+     "correta": 1,
+     "explicacao": "Deixe o local igual ou melhor do que encontrou."
+    }
+   ]
+  },
+  {
+   "codigo": "AR-021",
+   "nome": "Mapa e bússola",
+   "area": "AR",
+   "nivel": 2,
+   "descricao": "Orientação com bússola, pontos cardeais, azimutes, escala e leitura de mapas topográficos.",
+   "perguntas": [
+    {
+     "enunciado": "Para onde aponta a agulha de uma bússola?",
+     "opcoes": [
+      "Para o Norte verdadeiro",
+      "Para o Norte magnético",
+      "Para o Sol",
+      "Para o Sul geográfico"
+     ],
+     "correta": 1,
+     "explicacao": "A agulha se alinha ao campo magnético da Terra e aponta para o Norte magnético."
+    },
+    {
+     "enunciado": "Como se chama a diferença entre o Norte verdadeiro e o Norte magnético?",
+     "opcoes": [
+      "Latitude",
+      "Declinação magnética",
+      "Escala",
+      "Azimute"
+     ],
+     "correta": 1,
+     "explicacao": "Declinação magnética é o ângulo entre os dois nortes e varia de lugar para lugar."
+    },
+    {
+     "enunciado": "Qual é o azimute do Leste?",
+     "opcoes": [
+      "0°",
+      "90°",
+      "180°",
+      "270°"
+     ],
+     "correta": 1,
+     "explicacao": "Azimute é medido do Norte no sentido horário: N 0°, L 90°, S 180°, O 270°."
+    },
+    {
+     "enunciado": "Qual é o azimute do Oeste?",
+     "opcoes": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+     ],
+     "correta": 2,
+     "explicacao": "Oeste fica a 270°."
+    },
+    {
+     "enunciado": "Entre o Norte e o Leste fica o:",
+     "opcoes": [
+      "Noroeste",
+      "Sudeste",
+      "Nordeste",
+      "Sudoeste"
+     ],
+     "correta": 2,
+     "explicacao": "Nordeste (NE) fica entre Norte e Leste."
+    },
+    {
+     "enunciado": "Se você seguiu o azimute 60° e quer voltar pelo mesmo caminho, que azimute deve usar?",
+     "opcoes": [
+      "120°",
+      "240°",
+      "300°",
+      "60°"
+     ],
+     "correta": 1,
+     "explicacao": "O azimute de volta (contra-azimute) é o de ida ± 180°: 60 + 180 = 240°."
+    },
+    {
+     "enunciado": "Num mapa topográfico, curvas de nível muito próximas indicam:",
+     "opcoes": [
+      "Terreno plano",
+      "Terreno íngreme",
+      "Rio",
+      "Estrada"
+     ],
+     "correta": 1,
+     "explicacao": "Quanto mais próximas as curvas, mais inclinado é o terreno."
+    },
+    {
+     "enunciado": "Em um mapa na escala 1:50.000, 1 cm no papel equivale a quanto no terreno?",
+     "opcoes": [
+      "50 m",
+      "500 m",
+      "5 km",
+      "50 km"
+     ],
+     "correta": 1,
+     "explicacao": "1 cm × 50.000 = 50.000 cm = 500 m."
+    },
+    {
+     "enunciado": "Por que manter a bússola longe de objetos de metal e ímãs?",
+     "opcoes": [
+      "Para não arranhar",
+      "Porque eles desviam a agulha",
+      "Porque a bússola fica pesada",
+      "Não faz diferença"
+     ],
+     "correta": 1,
+     "explicacao": "Metais e ímãs criam campos magnéticos que alteram a leitura."
+    },
+    {
+     "enunciado": "De que lado o Sol nasce aproximadamente?",
+     "opcoes": [
+      "Norte",
+      "Sul",
+      "Leste",
+      "Oeste"
+     ],
+     "correta": 2,
+     "explicacao": "O Sol nasce aproximadamente a Leste e se põe a Oeste."
+    }
+   ]
+  },
+  {
+   "codigo": "AR-020",
+   "nome": "Fogueiras e cozinha ao ar livre",
+   "area": "AR",
+   "nivel": 2,
+   "descricao": "Segurança com fogo, tipos de fogueira, combustível e preparo de refeições no acampamento.",
+   "perguntas": [
+    {
+     "enunciado": "Quais são os três elementos do triângulo do fogo?",
+     "opcoes": [
+      "Água, terra e ar",
+      "Combustível, calor e oxigênio",
+      "Lenha, fósforo e papel",
+      "Fumaça, chama e brasa"
+     ],
+     "correta": 1,
+     "explicacao": "Sem qualquer um dos três o fogo apaga."
+    },
+    {
+     "enunciado": "Qual é a ordem correta para acender uma fogueira?",
+     "opcoes": [
+      "Lenha grossa, gravetos, isca",
+      "Isca, gravetos, lenha mais grossa",
+      "Gravetos, lenha grossa, isca",
+      "Só lenha grossa"
+     ],
+     "correta": 1,
+     "explicacao": "Comece com a isca (material fino e seco), depois gravetos, depois lenha maior."
+    },
+    {
+     "enunciado": "O que NUNCA deve ser usado para acender uma fogueira?",
+     "opcoes": [
+      "Fósforo",
+      "Isca natural seca",
+      "Gasolina",
+      "Gravetos secos"
+     ],
+     "correta": 2,
+     "explicacao": "Gasolina vaporiza e pode explodir. É uma das maiores causas de queimaduras graves."
+    },
+    {
+     "enunciado": "Como apagar corretamente uma fogueira?",
+     "opcoes": [
+      "Cobrir só com folhas",
+      "Deixar queimar até acabar sozinha",
+      "Jogar água, mexer as cinzas e repetir até tudo estar frio ao toque",
+      "Jogar um pouco de terra por cima e sair"
+     ],
+     "correta": 2,
+     "explicacao": "Água, mexer e água de novo, até não haver calor nenhum."
+    },
+    {
+     "enunciado": "Ao cozinhar alimentos embrulhados em papel-alumínio, eles devem ficar:",
+     "opcoes": [
+      "Direto nas chamas altas",
+      "Sobre as brasas",
+      "Longe do fogo",
+      "Em cima da lenha nova"
+     ],
+     "correta": 1,
+     "explicacao": "As brasas dão calor constante. Chamas altas queimam por fora e deixam cru por dentro."
+    },
+    {
+     "enunciado": "Antes de acender uma fogueira, o que fazer com a área ao redor?",
+     "opcoes": [
+      "Nada",
+      "Limpar folhas secas e galhos ao redor",
+      "Molhar a lenha",
+      "Cobrir com lona"
+     ],
+     "correta": 1,
+     "explicacao": "Retirar material inflamável evita que o fogo se espalhe."
+    },
+    {
+     "enunciado": "Um bom material para isca é:",
+     "opcoes": [
+      "Lenha verde",
+      "Pedras",
+      "Capim seco ou casca fina e seca",
+      "Folhas molhadas"
+     ],
+     "correta": 2,
+     "explicacao": "Isca precisa ser fina, seca e pegar fogo com facilidade."
+    },
+    {
+     "enunciado": "Em caso de roupa pegando fogo, a pessoa deve:",
+     "opcoes": [
+      "Correr para buscar água",
+      "Parar, deitar e rolar",
+      "Abanar as chamas",
+      "Tirar a roupa correndo"
+     ],
+     "correta": 1,
+     "explicacao": "Correr alimenta o fogo com oxigênio. Pare, deite e role."
+    }
+   ]
+  },
+  {
+   "codigo": "AR-101",
+   "nome": "Pioneirias (nós e amarras)",
+   "area": "AR",
+   "nivel": 2,
+   "descricao": "Nós, voltas e amarras usados em construções de acampamento.",
+   "perguntas": [
+    {
+     "enunciado": "Qual nó é usado para unir duas cordas de mesma espessura?",
+     "opcoes": [
+      "Lais de guia",
+      "Nó direito",
+      "Volta do fiel",
+      "Nó de oito"
+     ],
+     "correta": 1,
+     "explicacao": "O nó direito une cordas de mesma grossura."
+    },
+    {
+     "enunciado": "Qual nó forma uma alça fixa que não corre, usada em resgates?",
+     "opcoes": [
+      "Nó direito",
+      "Escota",
+      "Lais de guia",
+      "Volta do fiel"
+     ],
+     "correta": 2,
+     "explicacao": "O lais de guia faz uma alça que não aperta, ideal para resgate."
+    },
+    {
+     "enunciado": "Para unir duas cordas de espessuras diferentes, usa-se o nó:",
+     "opcoes": [
+      "Escota",
+      "Direito",
+      "Oito",
+      "Cego"
+     ],
+     "correta": 0,
+     "explicacao": "A escota é indicada para cordas de grossuras diferentes."
+    },
+    {
+     "enunciado": "Qual volta costuma iniciar e terminar as amarras?",
+     "opcoes": [
+      "Volta do fiel",
+      "Nó direito",
+      "Nó de correr",
+      "Escota"
+     ],
+     "correta": 0,
+     "explicacao": "A volta do fiel prende a corda ao bastão no início e no fim das amarras."
+    },
+    {
+     "enunciado": "Qual amarra une dois bastões em ângulo reto (cruzados a 90°)?",
+     "opcoes": [
+      "Amarra paralela",
+      "Amarra quadrada",
+      "Amarra diagonal",
+      "Amarra de tripé"
+     ],
+     "correta": 1,
+     "explicacao": "A amarra quadrada prende bastões que se cruzam em ângulo reto."
+    },
+    {
+     "enunciado": "Qual amarra une dois bastões que se cruzam em ângulo diferente de 90° e tendem a se separar?",
+     "opcoes": [
+      "Quadrada",
+      "Diagonal",
+      "Paralela",
+      "Volta redonda"
+     ],
+     "correta": 1,
+     "explicacao": "A amarra diagonal é usada quando os bastões tendem a se afastar."
+    },
+    {
+     "enunciado": "O nó de oito é usado principalmente como:",
+     "opcoes": [
+      "Nó de emenda",
+      "Nó de parada, para a corda não escapar",
+      "Amarra de tripé",
+      "Nó decorativo apenas"
+     ],
+     "correta": 1,
+     "explicacao": "É um nó de bloqueio que impede a ponta de passar por um furo ou mosquetão."
+    },
+    {
+     "enunciado": "Como se chama a parte da corda que não é usada para dar o nó?",
+     "opcoes": [
+      "Chicote",
+      "Firme (parte fixa)",
+      "Seio",
+      "Volta"
+     ],
+     "correta": 1,
+     "explicacao": "Chicote é a ponta que trabalha. A parte firme é a que fica parada."
+    }
+   ]
+  },
+  {
+   "codigo": "EN-003",
+   "nome": "Aves",
+   "area": "EN",
+   "nivel": 1,
+   "descricao": "Características, hábitos e identificação de aves, com destaque para espécies brasileiras.",
+   "perguntas": [
+    {
+     "enunciado": "Qual característica pertence somente às aves?",
+     "opcoes": [
+      "Ter bico",
+      "Ter penas",
+      "Botar ovos",
+      "Ter asas"
+     ],
+     "correta": 1,
+     "explicacao": "Outros animais botam ovos ou têm asas, mas só as aves têm penas."
+    },
+    {
+     "enunciado": "Qual é a maior ave do Brasil?",
+     "opcoes": [
+      "Tuiuiú",
+      "Ema",
+      "Gavião-real",
+      "Arara-azul"
+     ],
+     "correta": 1,
+     "explicacao": "A ema pode passar de 1,5 m de altura e não voa."
+    },
+    {
+     "enunciado": "Qual ave é o símbolo nacional do Brasil desde 2002?",
+     "opcoes": [
+      "Tucano",
+      "Sabiá-laranjeira",
+      "Bem-te-vi",
+      "Arara-vermelha"
+     ],
+     "correta": 1,
+     "explicacao": "Um decreto de 2002 tornou o sabiá-laranjeira a ave-símbolo do Brasil."
+    },
+    {
+     "enunciado": "Qual ave é capaz de voar para trás?",
+     "opcoes": [
+      "Beija-flor",
+      "Pomba",
+      "Coruja",
+      "Pato"
+     ],
+     "correta": 0,
+     "explicacao": "O beija-flor bate as asas muito rápido e consegue pairar e voar de ré."
+    },
+    {
+     "enunciado": "O ninho de barro em forma de forno é feito pelo:",
+     "opcoes": [
+      "Bem-te-vi",
+      "João-de-barro",
+      "Pardal",
+      "Quero-quero"
+     ],
+     "correta": 1,
+     "explicacao": "O joão-de-barro constrói ninhos de barro com uma câmara interna."
+    },
+    {
+     "enunciado": "A coruja tem hábito principalmente:",
+     "opcoes": [
+      "Diurno",
+      "Noturno",
+      "Aquático",
+      "Subterrâneo"
+     ],
+     "correta": 1,
+     "explicacao": "A maioria das corujas caça à noite, com ótima visão e audição."
+    },
+    {
+     "enunciado": "Uma das funções do grande bico do tucano é:",
+     "opcoes": [
+      "Cavar buracos",
+      "Ajudar a regular a temperatura do corpo",
+      "Nadar",
+      "Assustar cobras com som"
+     ],
+     "correta": 1,
+     "explicacao": "O bico tem muitos vasos sanguíneos e ajuda a liberar calor."
+    },
+    {
+     "enunciado": "Qual destas aves NÃO voa?",
+     "opcoes": [
+      "Gaivota",
+      "Pinguim",
+      "Andorinha",
+      "Garça"
+     ],
+     "correta": 1,
+     "explicacao": "O pinguim usa as asas como nadadeiras."
+    },
+    {
+     "enunciado": "Como se chama a viagem que algumas aves fazem todos os anos entre regiões?",
+     "opcoes": [
+      "Hibernação",
+      "Migração",
+      "Metamorfose",
+      "Muda"
+     ],
+     "correta": 1,
+     "explicacao": "Na migração as aves buscam clima e alimento melhores."
+    }
+   ]
+  },
+  {
+   "codigo": "EN-007",
+   "nome": "Insetos",
+   "area": "EN",
+   "nivel": 1,
+   "descricao": "Anatomia, ciclo de vida, importância ecológica e identificação de insetos.",
+   "perguntas": [
+    {
+     "enunciado": "Quantas patas tem um inseto adulto?",
+     "opcoes": [
+      "4",
+      "6",
+      "8",
+      "10"
+     ],
+     "correta": 1,
+     "explicacao": "Insetos têm 3 pares de patas, ou seja, 6."
+    },
+    {
+     "enunciado": "Quais são as três partes do corpo de um inseto?",
+     "opcoes": [
+      "Cabeça, tórax e abdome",
+      "Cabeça, pescoço e cauda",
+      "Cefalotórax e abdome",
+      "Tronco, membros e cabeça"
+     ],
+     "correta": 0,
+     "explicacao": "Cabeça, tórax e abdome."
+    },
+    {
+     "enunciado": "A aranha é um inseto?",
+     "opcoes": [
+      "Sim, porque tem patas articuladas",
+      "Não, é um aracnídeo com 8 patas",
+      "Sim, porque tece teia",
+      "Não, é um crustáceo"
+     ],
+     "correta": 1,
+     "explicacao": "Aranhas têm 8 patas e o corpo em duas partes: são aracnídeos."
+    },
+    {
+     "enunciado": "Qual a sequência da metamorfose completa (ex.: borboleta)?",
+     "opcoes": [
+      "Ovo, ninfa, adulto",
+      "Ovo, larva, pupa, adulto",
+      "Larva, ovo, adulto",
+      "Ovo, adulto"
+     ],
+     "correta": 1,
+     "explicacao": "Na metamorfose completa há o estágio de pupa (crisálida)."
+    },
+    {
+     "enunciado": "O gafanhoto tem metamorfose incompleta. Quais são as fases?",
+     "opcoes": [
+      "Ovo, larva, pupa, adulto",
+      "Ovo, ninfa, adulto",
+      "Ovo, pupa, adulto",
+      "Larva, adulto"
+     ],
+     "correta": 1,
+     "explicacao": "Na metamorfose incompleta a ninfa já se parece com o adulto."
+    },
+    {
+     "enunciado": "Quantos pares de antenas tem um inseto?",
+     "opcoes": [
+      "Nenhum",
+      "1 par",
+      "2 pares",
+      "3 pares"
+     ],
+     "correta": 1,
+     "explicacao": "Insetos têm um par de antenas."
+    },
+    {
+     "enunciado": "O esqueleto externo dos insetos é formado principalmente por:",
+     "opcoes": [
+      "Cálcio",
+      "Quitina",
+      "Queratina",
+      "Celulose"
+     ],
+     "correta": 1,
+     "explicacao": "O exoesqueleto é de quitina."
+    },
+    {
+     "enunciado": "Qual mosquito transmite a dengue?",
+     "opcoes": [
+      "Anopheles",
+      "Aedes aegypti",
+      "Culex",
+      "Pernilongo-gigante"
+     ],
+     "correta": 1,
+     "explicacao": "O Aedes aegypti também transmite zika e chikungunya."
+    },
+    {
+     "enunciado": "Qual destes insetos vive em colônias organizadas (inseto social)?",
+     "opcoes": [
+      "Barata",
+      "Abelha",
+      "Libélula",
+      "Grilo"
+     ],
+     "correta": 1,
+     "explicacao": "Abelhas, formigas e cupins vivem em sociedades com divisão de tarefas."
+    },
+    {
+     "enunciado": "Qual é uma grande importância das abelhas para a natureza?",
+     "opcoes": [
+      "Comer pragas",
+      "Polinizar as plantas",
+      "Decompor madeira",
+      "Espantar pássaros"
+     ],
+     "correta": 1,
+     "explicacao": "A polinização permite que muitas plantas produzam frutos e sementes."
+    }
+   ]
+  },
+  {
+   "codigo": "EN-002",
+   "nome": "Astronomia",
+   "area": "EN",
+   "nivel": 1,
+   "descricao": "Sistema Solar, estrelas, constelações, fases da Lua e observação do céu.",
+   "perguntas": [
+    {
+     "enunciado": "Qual é o planeta mais próximo do Sol?",
+     "opcoes": [
+      "Vênus",
+      "Terra",
+      "Mercúrio",
+      "Marte"
+     ],
+     "correta": 2,
+     "explicacao": "A ordem é Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno."
+    },
+    {
+     "enunciado": "Qual é o maior planeta do Sistema Solar?",
+     "opcoes": [
+      "Saturno",
+      "Júpiter",
+      "Netuno",
+      "Terra"
+     ],
+     "correta": 1,
+     "explicacao": "Júpiter é o maior planeta."
+    },
+    {
+     "enunciado": "Quantos planetas tem o Sistema Solar?",
+     "opcoes": [
+      "7",
+      "8",
+      "9",
+      "10"
+     ],
+     "correta": 1,
+     "explicacao": "Desde 2006 Plutão é classificado como planeta-anão; são 8 planetas."
+    },
+    {
+     "enunciado": "Qual é a estrela mais próxima da Terra?",
+     "opcoes": [
+      "Sirius",
+      "Alfa Centauri",
+      "O Sol",
+      "Estrela Polar"
+     ],
+     "correta": 2,
+     "explicacao": "O Sol é uma estrela."
+    },
+    {
+     "enunciado": "Qual constelação aparece na bandeira do Brasil e ajuda a achar o Sul?",
+     "opcoes": [
+      "Órion",
+      "Cruzeiro do Sul",
+      "Escorpião",
+      "Ursa Maior"
+     ],
+     "correta": 1,
+     "explicacao": "O eixo maior do Cruzeiro do Sul aponta na direção do polo Sul celeste."
+    },
+    {
+     "enunciado": "Qual planeta é conhecido como \"planeta vermelho\"?",
+     "opcoes": [
+      "Vênus",
+      "Júpiter",
+      "Marte",
+      "Mercúrio"
+     ],
+     "correta": 2,
+     "explicacao": "Marte tem solo rico em óxido de ferro, que dá a cor avermelhada."
+    },
+    {
+     "enunciado": "A \"Estrela d'Alva\", muito brilhante no começo da manhã, é na verdade o planeta:",
+     "opcoes": [
+      "Marte",
+      "Vênus",
+      "Saturno",
+      "Mercúrio"
+     ],
+     "correta": 1,
+     "explicacao": "Vênus é o objeto mais brilhante do céu depois do Sol e da Lua."
+    },
+    {
+     "enunciado": "Ano-luz é uma unidade de:",
+     "opcoes": [
+      "Tempo",
+      "Distância",
+      "Brilho",
+      "Velocidade"
+     ],
+     "correta": 1,
+     "explicacao": "É a distância que a luz percorre em um ano."
+    },
+    {
+     "enunciado": "Qual planeta tem os anéis mais visíveis?",
+     "opcoes": [
+      "Júpiter",
+      "Urano",
+      "Saturno",
+      "Netuno"
+     ],
+     "correta": 2,
+     "explicacao": "Saturno tem um grande sistema de anéis de gelo e rocha."
+    },
+    {
+     "enunciado": "Aproximadamente quanto tempo dura o ciclo completo das fases da Lua?",
+     "opcoes": [
+      "7 dias",
+      "15 dias",
+      "29,5 dias",
+      "365 dias"
+     ],
+     "correta": 2,
+     "explicacao": "De uma Lua nova até a próxima passam cerca de 29,5 dias."
+    }
+   ]
+  },
+  {
+   "codigo": "AM-052",
+   "nome": "Apocalipse",
+   "area": "AM",
+   "nivel": 2,
+   "descricao": "Estudo do livro do Apocalipse: autor, igrejas, selos, trombetas e a esperança da Nova Terra.",
+   "perguntas": [
+    {
+     "enunciado": "Quem escreveu o livro do Apocalipse?",
+     "opcoes": [
+      "Paulo",
+      "Pedro",
+      "João",
+      "Daniel"
+     ],
+     "correta": 2,
+     "explicacao": "Apocalipse 1:1, 9 – o apóstolo João."
+    },
+    {
+     "enunciado": "Em que lugar João recebeu as visões do Apocalipse?",
+     "opcoes": [
+      "Jerusalém",
+      "Ilha de Patmos",
+      "Roma",
+      "Éfeso"
+     ],
+     "correta": 1,
+     "explicacao": "Apocalipse 1:9 – na ilha chamada Patmos."
+    },
+    {
+     "enunciado": "A quantas igrejas da Ásia foram enviadas as mensagens dos capítulos 2 e 3?",
+     "opcoes": [
+      "3",
+      "7",
+      "10",
+      "12"
+     ],
+     "correta": 1,
+     "explicacao": "Sete igrejas: Éfeso, Esmirna, Pérgamo, Tiatira, Sardes, Filadélfia e Laodiceia."
+    },
+    {
+     "enunciado": "Qual foi a primeira das sete igrejas a receber mensagem?",
+     "opcoes": [
+      "Laodiceia",
+      "Esmirna",
+      "Éfeso",
+      "Sardes"
+     ],
+     "correta": 2,
+     "explicacao": "Apocalipse 2:1 – Éfeso."
+    },
+    {
+     "enunciado": "Qual igreja foi chamada de \"morna\"?",
+     "opcoes": [
+      "Filadélfia",
+      "Laodiceia",
+      "Pérgamo",
+      "Tiatira"
+     ],
+     "correta": 1,
+     "explicacao": "Apocalipse 3:15-16."
+    },
+    {
+     "enunciado": "Quantos capítulos tem o livro do Apocalipse?",
+     "opcoes": [
+      "12",
+      "22",
+      "28",
+      "40"
+     ],
+     "correta": 1,
+     "explicacao": "Apocalipse tem 22 capítulos."
+    },
+    {
+     "enunciado": "Em qual capítulo estão as mensagens dos três anjos?",
+     "opcoes": [
+      "Capítulo 1",
+      "Capítulo 7",
+      "Capítulo 14",
+      "Capítulo 20"
+     ],
+     "correta": 2,
+     "explicacao": "Apocalipse 14:6-12."
+    },
+    {
+     "enunciado": "Segundo Apocalipse 21:4, na Nova Terra:",
+     "opcoes": [
+      "Haverá noite e dia",
+      "Não haverá mais morte, nem pranto, nem dor",
+      "Haverá templos em cada cidade",
+      "Haverá mar por toda parte"
+     ],
+     "correta": 1,
+     "explicacao": "\"Deus enxugará dos olhos toda lágrima...\""
+    },
+    {
+     "enunciado": "Quantos selos tinha o livro visto em Apocalipse 5?",
+     "opcoes": [
+      "3",
+      "5",
+      "7",
+      "12"
+     ],
+     "correta": 2,
+     "explicacao": "O livro estava selado com sete selos."
+    }
+   ]
+  },
+  {
+   "codigo": "AM-054",
+   "nome": "Livro de Daniel",
+   "area": "AM",
+   "nivel": 2,
+   "descricao": "Histórias e profecias do livro de Daniel.",
+   "perguntas": [
+    {
+     "enunciado": "Qual rei levou Daniel cativo para a Babilônia?",
+     "opcoes": [
+      "Dario",
+      "Ciro",
+      "Nabucodonosor",
+      "Belsazar"
+     ],
+     "correta": 2,
+     "explicacao": "Daniel 1:1-6."
+    },
+    {
+     "enunciado": "Por quantos dias Daniel e os amigos fizeram o teste com legumes e água?",
+     "opcoes": [
+      "3",
+      "7",
+      "10",
+      "40"
+     ],
+     "correta": 2,
+     "explicacao": "Daniel 1:12 – dez dias."
+    },
+    {
+     "enunciado": "Quais eram os nomes hebraicos dos três amigos de Daniel?",
+     "opcoes": [
+      "Pedro, Tiago e João",
+      "Hananias, Misael e Azarias",
+      "Sadraque, Mesaque e Abede-Nego",
+      "Esdras, Neemias e Ageu"
+     ],
+     "correta": 1,
+     "explicacao": "Sadraque, Mesaque e Abede-Nego eram os nomes babilônicos (Dn 1:7)."
+    },
+    {
+     "enunciado": "Na estátua de Daniel 2, de que era feita a cabeça?",
+     "opcoes": [
+      "Prata",
+      "Bronze",
+      "Ouro",
+      "Ferro"
+     ],
+     "correta": 2,
+     "explicacao": "Cabeça de ouro, peito e braços de prata, ventre e coxas de bronze, pernas de ferro, pés de ferro e barro."
+    },
+    {
+     "enunciado": "Segundo Daniel, quem era a cabeça de ouro?",
+     "opcoes": [
+      "Pérsia",
+      "Grécia",
+      "Babilônia (Nabucodonosor)",
+      "Roma"
+     ],
+     "correta": 2,
+     "explicacao": "Daniel 2:38 – \"Tu és a cabeça de ouro\"."
+    },
+    {
+     "enunciado": "De que eram os pés da estátua?",
+     "opcoes": [
+      "Ouro e prata",
+      "Ferro e barro",
+      "Bronze",
+      "Pedra"
+     ],
+     "correta": 1,
+     "explicacao": "Daniel 2:33."
+    },
+    {
+     "enunciado": "Qual rei viu a escrita misteriosa na parede durante um banquete?",
+     "opcoes": [
+      "Nabucodonosor",
+      "Belsazar",
+      "Dario",
+      "Ciro"
+     ],
+     "correta": 1,
+     "explicacao": "Daniel 5."
+    },
+    {
+     "enunciado": "Quantas vezes por dia Daniel orava, mesmo com o decreto do rei?",
+     "opcoes": [
+      "Uma",
+      "Duas",
+      "Três",
+      "Sete"
+     ],
+     "correta": 2,
+     "explicacao": "Daniel 6:10."
+    },
+    {
+     "enunciado": "Qual rei mandou lançar Daniel na cova dos leões?",
+     "opcoes": [
+      "Nabucodonosor",
+      "Belsazar",
+      "Dario",
+      "Herodes"
+     ],
+     "correta": 2,
+     "explicacao": "Daniel 6."
+    },
+    {
+     "enunciado": "Quantos homens o rei viu andando dentro da fornalha ardente?",
+     "opcoes": [
+      "Três",
+      "Quatro",
+      "Dois",
+      "Sete"
+     ],
+     "correta": 1,
+     "explicacao": "Daniel 3:25 – quatro homens soltos, andando no meio do fogo."
+    }
+   ]
+  },
+  {
+   "codigo": "AM-EB-001",
+   "nome": "Escrituras sagradas",
+   "area": "AM-EB",
+   "nivel": 1,
+   "descricao": "Conhecimentos gerais sobre a Bíblia: divisões, livros, línguas e textos-chave.",
+   "perguntas": [
+    {
+     "enunciado": "Quantos livros tem a Bíblia (cânon protestante)?",
+     "opcoes": [
+      "39",
+      "27",
+      "66",
+      "73"
+     ],
+     "correta": 2,
+     "explicacao": "39 no Antigo Testamento e 27 no Novo Testamento."
+    },
+    {
+     "enunciado": "Quantos livros tem o Novo Testamento?",
+     "opcoes": [
+      "27",
+      "39",
+      "21",
+      "30"
+     ],
+     "correta": 0,
+     "explicacao": "O Novo Testamento tem 27 livros."
+    },
+    {
+     "enunciado": "Qual é o primeiro livro da Bíblia?",
+     "opcoes": [
+      "Êxodo",
+      "Gênesis",
+      "Mateus",
+      "Salmos"
+     ],
+     "correta": 1,
+     "explicacao": "Gênesis significa \"origem\"."
+    },
+    {
+     "enunciado": "Qual livro da Bíblia tem mais capítulos?",
+     "opcoes": [
+      "Isaías",
+      "Salmos",
+      "Gênesis",
+      "Jeremias"
+     ],
+     "correta": 1,
+     "explicacao": "Salmos tem 150 capítulos."
+    },
+    {
+     "enunciado": "Em que línguas a Bíblia foi escrita originalmente?",
+     "opcoes": [
+      "Latim e grego",
+      "Hebraico, aramaico e grego",
+      "Hebraico e latim",
+      "Aramaico e árabe"
+     ],
+     "correta": 1,
+     "explicacao": "AT em hebraico (com trechos em aramaico); NT em grego."
+    },
+    {
+     "enunciado": "Quais são os quatro Evangelhos?",
+     "opcoes": [
+      "Mateus, Marcos, Lucas e João",
+      "Atos, Romanos, Gálatas e Efésios",
+      "Pedro, Tiago, João e Judas",
+      "Mateus, Marcos, Lucas e Atos"
+     ],
+     "correta": 0,
+     "explicacao": "Os Evangelhos narram a vida de Jesus."
+    },
+    {
+     "enunciado": "Qual texto diz que \"toda a Escritura é inspirada por Deus\"?",
+     "opcoes": [
+      "João 3:16",
+      "2 Timóteo 3:16",
+      "Salmo 23:1",
+      "Gênesis 1:1"
+     ],
+     "correta": 1,
+     "explicacao": "2 Timóteo 3:16."
+    },
+    {
+     "enunciado": "Complete o Salmo 119:105: \"Lâmpada para os meus pés é a tua ___\"",
+     "opcoes": [
+      "luz",
+      "palavra",
+      "lei",
+      "graça"
+     ],
+     "correta": 1,
+     "explicacao": "\"...e luz para o meu caminho.\""
+    },
+    {
+     "enunciado": "Qual é o último livro do Antigo Testamento na ordem das Bíblias em português?",
+     "opcoes": [
+      "Malaquias",
+      "Zacarias",
+      "Daniel",
+      "Neemias"
+     ],
+     "correta": 0,
+     "explicacao": "Malaquias encerra o Antigo Testamento."
+    }
+   ]
+  },
+  {
+   "codigo": "HM-004",
+   "nome": "Música – básico",
+   "area": "HM",
+   "nivel": 1,
+   "descricao": "Noções de teoria musical: pauta, notas, figuras rítmicas e sinais.",
+   "perguntas": [
+    {
+     "enunciado": "Quantas linhas tem a pauta musical?",
+     "opcoes": [
+      "4",
+      "5",
+      "6",
+      "7"
+     ],
+     "correta": 1,
+     "explicacao": "A pauta (pentagrama) tem 5 linhas e 4 espaços."
+    },
+    {
+     "enunciado": "Quantas são as notas musicais naturais?",
+     "opcoes": [
+      "5",
+      "7",
+      "8",
+      "12"
+     ],
+     "correta": 1,
+     "explicacao": "Dó, ré, mi, fá, sol, lá, si."
+    },
+    {
+     "enunciado": "No compasso 4/4, quantos tempos vale a semibreve?",
+     "opcoes": [
+      "1",
+      "2",
+      "4",
+      "8"
+     ],
+     "correta": 2,
+     "explicacao": "Semibreve 4, mínima 2, semínima 1, colcheia ½."
+    },
+    {
+     "enunciado": "Qual figura vale metade da semínima?",
+     "opcoes": [
+      "Mínima",
+      "Colcheia",
+      "Semibreve",
+      "Breve"
+     ],
+     "correta": 1,
+     "explicacao": "A colcheia vale ½ tempo no compasso 4/4."
+    },
+    {
+     "enunciado": "No compasso 3/4, quantos tempos há em cada compasso?",
+     "opcoes": [
+      "2",
+      "3",
+      "4",
+      "6"
+     ],
+     "correta": 1,
+     "explicacao": "O número de cima indica quantos tempos tem o compasso."
+    },
+    {
+     "enunciado": "O que faz o sustenido (♯)?",
+     "opcoes": [
+      "Abaixa a nota meio tom",
+      "Eleva a nota meio tom",
+      "Dobra a duração",
+      "Silencia a nota"
+     ],
+     "correta": 1,
+     "explicacao": "O sustenido sobe meio tom. O bemol (♭) desce meio tom."
+    },
+    {
+     "enunciado": "O que significa a indicação \"p\" (piano) na partitura?",
+     "opcoes": [
+      "Tocar forte",
+      "Tocar suave",
+      "Tocar rápido",
+      "Repetir o trecho"
+     ],
+     "correta": 1,
+     "explicacao": "\"p\" = piano (suave); \"f\" = forte."
+    },
+    {
+     "enunciado": "Qual clave é mais usada para melodias de vozes agudas e flauta?",
+     "opcoes": [
+      "Clave de fá",
+      "Clave de dó",
+      "Clave de sol",
+      "Clave de ré"
+     ],
+     "correta": 2,
+     "explicacao": "A clave de sol é a mais comum para a melodia."
+    }
+   ]
+  },
+  {
+   "codigo": "HD-006",
+   "nome": "Orçamento familiar",
+   "area": "HD",
+   "nivel": 2,
+   "descricao": "Receitas, despesas, dízimo, poupança e planejamento financeiro da família.",
+   "perguntas": [
+    {
+     "enunciado": "O que é um orçamento familiar?",
+     "opcoes": [
+      "Uma lista de compras",
+      "O planejamento das receitas e despesas da família",
+      "Um empréstimo no banco",
+      "O salário do mês"
+     ],
+     "correta": 1,
+     "explicacao": "O orçamento compara o que entra (receitas) com o que sai (despesas)."
+    },
+    {
+     "enunciado": "Uma família recebe R$ 3.000 por mês. Quanto é o dízimo?",
+     "opcoes": [
+      "R$ 30",
+      "R$ 100",
+      "R$ 300",
+      "R$ 1.000"
+     ],
+     "correta": 2,
+     "explicacao": "Dízimo é 10% da renda: 3.000 × 0,10 = 300."
+    },
+    {
+     "enunciado": "Qual destas é uma despesa fixa?",
+     "opcoes": [
+      "Cinema",
+      "Aluguel",
+      "Presente de aniversário",
+      "Lanche na rua"
+     ],
+     "correta": 1,
+     "explicacao": "Despesas fixas têm valor e data quase iguais todo mês."
+    },
+    {
+     "enunciado": "Quando as despesas são maiores que as receitas, o orçamento está:",
+     "opcoes": [
+      "Equilibrado",
+      "Com superávit",
+      "Com déficit",
+      "Zerado"
+     ],
+     "correta": 2,
+     "explicacao": "Déficit é quando se gasta mais do que se ganha."
+    },
+    {
+     "enunciado": "Para que serve uma reserva de emergência?",
+     "opcoes": [
+      "Para comprar à vista coisas supérfluas",
+      "Para cobrir imprevistos sem precisar de empréstimo",
+      "Para pagar o dízimo",
+      "Não serve para nada"
+     ],
+     "correta": 1,
+     "explicacao": "Ela evita dívidas em situações como doença ou perda de emprego."
+    },
+    {
+     "enunciado": "Comprar parcelado com juros faz o produto custar:",
+     "opcoes": [
+      "Menos",
+      "O mesmo",
+      "Mais",
+      "Depende da cor"
+     ],
+     "correta": 2,
+     "explicacao": "Juros aumentam o valor total pago."
+    },
+    {
+     "enunciado": "Receita de R$ 2.500 e despesas de R$ 2.200. Quanto sobra?",
+     "opcoes": [
+      "R$ 200",
+      "R$ 300",
+      "R$ 400",
+      "R$ 4.700"
+     ],
+     "correta": 1,
+     "explicacao": "2.500 − 2.200 = 300."
+    }
+   ]
+  }
+ ]
+}
