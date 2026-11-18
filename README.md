@@ -1,3 +1,5 @@
+Membros do Grupo (Kelly Dantas, Rubens, Iuji, Wesley)
+
 # DBV Estuda+ (Android · Kotlin)
 
 App de perguntas e respostas para Desbravadores: treinar especialidades, aplicar provas e acompanhar o desempenho. Visual baseado no protótipo [Prot_DBV](https://well-2003.github.io/Prot_DBV/) (azul `#0E2A47` e amarelo `#F5B700`).
